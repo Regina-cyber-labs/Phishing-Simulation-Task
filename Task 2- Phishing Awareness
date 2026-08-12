@@ -849,3 +849,56 @@ The goal is not simply to remember the correct answers.
 The goal is to recognize the same manipulation when it appears in a completely different situation.
 
 > The strongest security habit is not knowing every type of phishing. It is knowing when to pause and verify.
+
+## Key Takeaways
+
+Phishing awareness is not about becoming suspicious of every message.
+
+It is about developing the habit of making deliberate security decisions before taking action.
+
+### Remember:
+
+- Pause when a message creates pressure or urgency.
+- Check what the sender is asking you to do.
+- Verify unusual or high-risk requests independently.
+- Never assume that a familiar name, logo, or website proves authenticity.
+- Treat unexpected requests for credentials, money, sensitive information, downloads, or access with additional caution.
+- If you make a mistake, report it quickly rather than hiding it.
+
+### The Trap Room Rule
+
+> Don't let urgency make the decision for you. Pause, check, and verify.
+
+---
+
+## Conclusion
+
+Phishing attacks succeed when deception meets an unguarded moment.
+
+The attacker may use technology, but the final decision often belongs to a person.
+
+That is why effective phishing awareness is not simply about memorizing warning signs. It is about building a habit of stopping long enough to question unusual requests and verify them through trusted channels.
+
+Think before you click. Verify before you trust. Report when in doubt.
+
+---
+
+## References
+
+1. Federal Bureau of Investigation (FBI) — Business Email Compromise  
+   https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/business-email-compromise
+
+2. National Institute of Standards and Technology (NIST) — Phishing and Social Engineering  
+   https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing
+
+---
+
+## Project Information
+
+Project: The Trap Room — A Phishing & Social Engineering Awareness Simulation
+
+Task: CodeAlpha Cybersecurity Internship — Task 2
+
+Focus Areas: Phishing awareness, social engineering, credential phishing, business email compromise, suspicious links, and security response.
+
+Format: Scenario-based cybersecurity awareness training with an interactive knowledge challenge.
