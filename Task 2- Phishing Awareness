@@ -1,0 +1,851 @@
+# THE TRAP ROOM
+### A Phishing & Social Engineering Awareness Simulation
+
+> Can you recognize the manipulation before you make the wrong move?
+
+## Project Overview
+
+Phishing awareness training often focuses on telling people what phishing looks like. However, recognizing a suspicious message in isolation is different from making a safe decision when that message arrives at the exact moment an employee is busy, distracted, pressured, or afraid of losing access to something important.
+
+The Trap Room is a scenario-based phishing and social engineering awareness simulation designed to place participants inside realistic workplace situations.
+
+Instead of simply reading a list of phishing warning signs, participants are presented with simulated messages and must decide how they would respond. Each scenario is then analyzed to reveal the psychological manipulation and technical indicators involved.
+
+The goal is to develop a habit of pausing, verifying, and making security-conscious decisions before taking action.
+
+## Objectives
+
+By completing this simulation, participants should be able to:
+
+- Recognize common phishing and social engineering techniques.
+- Identify technical and behavioral warning signs in suspicious messages.
+- Distinguish between urgency, authority, familiarity, and legitimacy.
+- Apply safe verification practices before clicking links, opening attachments, or sharing information.
+- Respond appropriately when a suspicious message is received.
+- Understand that professional appearance does not automatically make a message trustworthy.
+
+## How The Simulation Works
+
+Participants will encounter a series of fictional workplace scenarios involving emails, messages, and requests.
+
+For each scenario, the participant must decide what action they would take before viewing the analysis.
+
+Each scenario includes:
+
+1. The Situation — What the participant receives.
+2. Your Decision — The available actions.
+3. The Reveal — The safest response.
+4. The Trap — The psychological techniques used to influence the target.
+5. The Clues — Technical and contextual indicators to examine.
+6. The Lesson — The security practice the participant should remember.
+
+## Scenario 1 — Your Access Is About to Expire
+
+### The Situation
+
+It is 9:17 AM on a Monday morning. You have just started work and are preparing for an important meeting.
+
+You receive the following message:
+
+---
+
+From: IT Support  
+Subject: Microsoft 365 Session Expiration — Action Required
+
+> Hello,
+>
+> Our monitoring system detected that your Microsoft 365 session requires re-authentication.
+>
+> To prevent interruption to your email and Teams access, please confirm your account before 10:00 AM.
+>
+> [Keep My Account Active]
+>
+> IT Service Desk
+
+---
+
+### Your Decision
+
+What would you do?
+
+A. Click the button immediately because the message appears to come from IT Support.
+
+B. Reply to the message and ask IT Support to confirm the request.
+
+C. Open Microsoft 365 through your normal company bookmark or official application and check whether there is an account notification.
+
+D. Ignore the message because IT departments never send account-related emails.
+
+> Choose your answer before reading the analysis below.
+
+---
+
+### The Reveal
+
+Safest choice: C
+
+The safest response is to access the service through a trusted, independently verified route rather than using the link provided in an unexpected message.
+
+Option B is better than clicking immediately, but replying directly to the suspicious message does not independently verify who sent it.
+
+Option D is also unsafe as a general rule because legitimate organizations can send account notifications. The goal is not to distrust every message — it is to verify before taking a high-risk action.
+
+### What Was the Trap?
+
+This message uses several social engineering techniques:
+
+- Authority: It claims to come from IT Support, a department employees are expected to trust.
+- Urgency: The 10:00 AM deadline encourages the recipient to act quickly.
+- Fear of disruption: Losing access to email and Teams creates pressure to comply.
+- Familiarity: Microsoft 365 is a service employees commonly use, making the request appear plausible.
+
+### Technical & Contextual Clues
+
+The message should be treated cautiously because:
+
+- The recipient was not expecting a re-authentication request.
+- The message directs the recipient to use a provided link.
+- The deadline creates pressure to act before verifying the request.
+- The visible sender name alone does not prove that the message originated from the legitimate IT department.
+- The safest way to verify the request is to use a trusted route that was not provided by the suspicious message.
+
+### Security Lesson
+
+A familiar brand, department, or service does not make a message trustworthy.
+
+When a message asks you to authenticate, provide credentials, or follow a link, pause and verify the request through an independent trusted channel.
+
+Don't let urgency choose for you.
+
+## Scenario 2 — The Urgent Favour
+
+### The Situation
+
+It is 11:42 AM. You are working through your normal tasks when you receive a message from the company's Chief Executive Officer.
+
+The CEO's name and profile photo appear familiar.
+
+The message says:
+
+---
+
+From: Kelvin Okonkwo — CEO  
+Subject: Quick favour
+
+> Hi,
+>
+> I'm currently in a meeting and need this handled discreetly.
+>
+> Please purchase three ₦50,000 gift cards for a client appreciation package. I'll reimburse you as soon as I'm out of the meeting.
+>
+> Send me the card numbers and PINs once you've purchased them.
+>
+> I need this done within the next 20 minutes.
+>
+> Thanks.
+
+---
+
+### Your Decision
+
+What would you do?
+
+A. Purchase the gift cards immediately because the request appears to come from the CEO.
+
+B. Reply to the message and ask the CEO to confirm that the request is genuine.
+
+C. Verify the request using a trusted communication method or through another appropriate colleague before taking any action.
+
+D. Purchase only one gift card first to test whether the CEO really needs them.
+
+> Choose your answer before reading the analysis below.
+
+---
+
+### The Reveal
+
+Safest choice: C
+
+The request should be independently verified before any money or sensitive information is provided.
+
+A familiar name and profile photograph are not sufficient proof of identity. An attacker can impersonate an executive or compromise an executive's account.
+
+Option B is better than immediately complying, but if the original account or communication channel has been compromised, replying through the same channel may not independently verify the request.
+
+Option D is still risky because it involves acting on an unverified request.
+
+### What Was the Trap?
+
+This scenario relies heavily on social engineering rather than obvious technical indicators.
+
+The attacker attempts to exploit:
+
+- Authority: The request appears to come from the CEO.
+- Urgency: A 20-minute deadline discourages careful verification.
+- Secrecy: The instruction to keep the request discreet reduces the likelihood that the employee will ask someone else.
+- Pressure to please: Employees may feel uncomfortable questioning a senior executive.
+- Financial action: The attacker is attempting to turn the employee into the final step of the fraud.
+
+### Technical & Contextual Clues
+
+The request should immediately raise questions because:
+
+- It asks an employee to purchase gift cards.
+- It requests the gift card numbers and PINs.
+- It creates an unusually short deadline.
+- It asks the recipient to keep the transaction discreet.
+- The request involves money but does not follow an established company process.
+- The sender's displayed name or profile picture does not independently prove their identity.
+
+### Security Lesson
+
+Authority should never replace verification.
+
+When a high-ranking employee requests an unusual financial action, especially under time pressure, follow the organization's established verification and payment procedures.
+
+A request can look completely genuine and still be fraudulent.
+
+If the request is unusual, slow down.
+
+## Scenario 3 — The Login Page Looks Right
+
+### The Situation
+
+It is 2:26 PM. You receive an email shortly after returning from lunch.
+
+You recognize the company's cloud storage service from the message, and the branding looks familiar.
+
+---
+
+From: Document Services  
+Subject: Shared document requires your review
+
+> A document has been shared with you.
+>
+> Quarterly Operations Review — Action Required
+>
+> The document is available for review. Sign in to continue.
+>
+> [View Document]
+>
+> Document Services
+
+---
+
+You click the button.
+
+A login page appears.
+
+It contains:
+
+- The company's familiar logo.
+- The same colours you normally see on the service.
+- A familiar-looking username field.
+- A password field.
+- A "Sign in" button.
+
+Nothing immediately looks obviously wrong.
+
+### Your Decision
+
+What would you do?
+
+A. Enter your password because the page looks exactly like the service you normally use.
+
+B. Close the page and independently open the legitimate service through your normal bookmark or official application.
+
+C. Enter your username first but wait before entering your password.
+
+D. Take a screenshot of the login page and send it to a colleague for confirmation while leaving the page open.
+
+> Choose your answer before reading the analysis below.
+
+---
+
+### The Reveal
+
+Safest choice: B
+
+The safest response is to avoid entering credentials into a login page reached through an unexpected message.
+
+Instead, access the legitimate service through a trusted route, such as a known bookmark, the official application, or a manually verified website address.
+
+Option C is not safe because entering a username can still provide information to an attacker, and there is no reason to trust the page simply because the password has not yet been entered.
+
+Option D is better than submitting credentials, but leaving a suspicious page open is unnecessary. The safest approach is to close it and verify the request independently.
+
+### What Was the Trap?
+
+This scenario demonstrates credential phishing through a fake login page.
+
+The attacker is not necessarily trying to convince the victim that the entire email is legitimate. Instead, the goal is to make the victim trust the website interface long enough to enter their credentials.
+
+The attack relies on:
+
+- Familiarity: The service and branding are recognizable.
+- Visual trust: Logos, colours, fonts, and layouts can be copied.
+- Context: A shared-document notification is a believable workplace event.
+- Routine behaviour: Employees are accustomed to signing in to online services.
+- Expectation: The victim may assume that clicking "View Document" naturally requires authentication.
+
+### Technical & Contextual Clues
+
+A convincing appearance is not proof that a website is legitimate.
+
+When a login page is reached through an unexpected message, examine:
+
+- The complete website address in the browser's address bar.
+- Whether the domain is the organization's genuine domain.
+- Whether the request was expected.
+- Whether the link destination matches the service it claims to represent.
+- Whether the page is asking for credentials unnecessarily.
+- Whether the login page was reached through a trusted route.
+
+A padlock or HTTPS connection alone does not prove that a website is legitimate. HTTPS protects the connection to a website; it does not guarantee that the website itself belongs to the organization it claims to represent.
+
+### Security Lesson
+
+A fake website does not have to look fake.
+
+Attackers can reproduce familiar branding and create convincing login pages. When credentials are requested after following an unexpected link, do not rely on appearance.
+
+Reach the service through a trusted route instead of trusting the route provided by the message.
+
+## Understanding Phishing
+
+Phishing is a form of social engineering in which an attacker uses a deceptive message, website, or communication to persuade a person to perform an action that benefits the attacker.
+
+That action could involve:
+
+- Entering a username or password.
+- Opening a malicious attachment.
+- Clicking a harmful link.
+- Sending money or purchasing something.
+- Sharing confidential information.
+- Approving an unexpected login or authentication request.
+
+### Phishing Is More Than a Suspicious Email
+
+Modern phishing does not always look like an obvious scam.
+
+An attacker may imitate:
+
+- A company's IT department.
+- A manager or executive.
+- A colleague.
+- A familiar online service.
+- A delivery or financial service.
+- A document-sharing platform.
+
+The most effective attacks often combine technical deception with human psychology.
+
+Instead of relying only on a fake link, an attacker may create a situation that makes the victim feel:
+
+- Urgent — "Do this before your account is disabled."
+- Important — "The CEO needs this immediately."
+- Afraid — "Your access will be suspended."
+- Curious — "You have received a confidential document."
+- Trusted — "This request appears to come from someone you know."
+
+### Common Forms of Phishing
+
+| Type | What it involves |
+|---|---|
+| Email Phishing | Deceptive emails designed to make the recipient take an unsafe action. |
+| Spear Phishing | A targeted attack customized for a specific person or organization. |
+| Whaling | Targeted social engineering aimed at senior or high-value individuals. |
+| Smishing | Phishing delivered through SMS or text messages. |
+| Vishing | Social engineering conducted through voice calls. |
+| Credential Phishing | Attempts to steal usernames, passwords, or other authentication information. |
+| Business Email Compromise (BEC) | Impersonation or compromise of business accounts to manipulate employees into transferring money, information, or access. |
+
+### The Important Habit
+
+There is no single visual clue that proves a message is phishing.
+
+A better question is:
+
+> "What is this message trying to make me do, and have I independently verified that request?"
+
+That question shifts the focus from simply spotting a suspicious-looking message to evaluating the risk of the requested action.
+
+### The Three-Second Pause
+
+Before clicking, replying, paying, downloading, or entering credentials:
+
+PAUSE → CHECK → VERIFY
+
+PAUSE  
+Don't let urgency make the decision for you.
+
+CHECK  
+Look at the sender, request, link, attachment, context, and destination.
+
+VERIFY  
+Use a trusted method outside the suspicious message to confirm the request when necessary.
+
+> If an attacker controls the message, don't let the message control your verification process.
+
+## Social Engineering Tactics
+
+Social engineering attacks target human decision-making rather than relying only on technical weaknesses.
+
+An attacker may try to influence a person into making a decision they would normally question.
+
+### 1. Urgency
+
+The attacker creates a short deadline so the target has less time to think or verify.
+
+Example from Scenario 1:  
+The supposed IT message required action before 10:00 AM.
+
+What to remember:  
+A deadline does not make an unusual request legitimate.
+
+---
+
+### 2. Authority
+
+The attacker uses a position of power or a trusted department to make the request appear legitimate.
+
+Example from Scenario 1:  
+The message appeared to come from IT Support.
+
+Example from Scenario 2:  
+The request appeared to come from the company's CEO.
+
+What to remember:  
+The more important the person appears to be, the more important independent verification becomes.
+
+---
+
+### 3. Secrecy
+
+The target is encouraged not to discuss the request with other people.
+
+Example from Scenario 2:  
+The supposed CEO asked the employee to handle the gift-card purchase discreetly.
+
+Why it matters:  
+Secrecy can prevent the target from asking a colleague whether the request is legitimate.
+
+---
+
+### 4. Familiarity
+
+The attacker uses something the target already recognizes, such as a familiar company, service, logo, colleague, or workplace process.
+
+Example from Scenario 3:  
+The fake document-sharing login page used familiar branding and looked like a service the employee normally uses.
+
+What to remember:  
+Familiar appearance is not proof of authenticity.
+
+---
+
+### 5. Fear
+
+The attacker creates a consequence that the target wants to avoid.
+
+Examples include:
+
+- Losing access to an account.
+- Missing an important deadline.
+- Having a payment rejected.
+- Getting into trouble at work.
+- Losing access to important files.
+
+Fear can cause people to prioritize speed over verification.
+
+---
+
+### 6. Curiosity
+
+The attacker creates a reason for the target to open a link or attachment.
+
+Examples include:
+
+- "You have received a confidential document."
+- "Here are the results you requested."
+- "Someone mentioned you in this document."
+- "Your updated report is attached."
+
+Curiosity becomes dangerous when it overrides normal security checks.
+
+---
+
+### The Manipulation Test
+
+When a message creates a strong emotional reaction, pause and ask:
+
+> "Is this message giving me information, or is it trying to control my decision?"
+
+A legitimate request may still be urgent, important, or emotional. These characteristics alone do not prove that something is malicious.
+
+The warning sign is when pressure is being used to discourage reasonable verification.
+
+## Phishing Red Flags
+
+There is no single warning sign that proves a message is malicious. Strong phishing detection comes from looking at several clues together and considering what the message is asking you to do.
+
+### 1. Unexpected Requests
+
+Be cautious when a message asks you to perform an action you were not expecting.
+
+Examples:
+
+- Unexpected password resets.
+- Unrequested account verification.
+- Unusual payment requests.
+- Unexpected document-sharing notifications.
+- Requests for sensitive information.
+
+### 2. Pressure to Act Quickly
+
+Be especially cautious when a message tells you that you must act immediately.
+
+Examples:
+
+- "Your account will be disabled today."
+- "You have 10 minutes to respond."
+- "Payment must be completed immediately."
+
+Urgency is not proof of phishing, but it can be used to prevent careful thinking.
+
+### 3. Requests for Credentials or Sensitive Information
+
+Treat unexpected requests for passwords, authentication codes, financial information, or confidential company data as high-risk.
+
+Legitimate organizations generally have established processes for handling sensitive information.
+
+### 4. Suspicious Links
+
+Before following a link, consider:
+
+- Was the message expected?
+- Where does the link actually lead?
+- Does the domain belong to the organization it claims to represent?
+- Is the link asking you to log in unnecessarily?
+
+Do not rely only on the visible text of a link. The displayed words can be different from the actual destination.
+
+### 5. Unexpected Attachments
+
+Unexpected attachments can be used to deliver malicious files or convince a recipient to open content they did not request.
+
+Be cautious with attachments that:
+
+- Arrive unexpectedly.
+- Create urgency.
+- Come from an unfamiliar sender.
+- Ask you to enable macros or other unusual settings.
+- Require you to bypass normal security controls.
+
+### 6. Unusual Financial Requests
+
+Requests involving money deserve additional scrutiny, especially when they:
+
+- Come unexpectedly.
+- Require gift cards or cryptocurrency.
+- Ask for bank transfers.
+- Bypass normal approval procedures.
+- Ask you to keep the transaction secret.
+
+### 7. Sender Identity Does Not Match the Request
+
+A familiar display name, profile picture, company logo, or email signature can be copied or manipulated.
+
+Ask yourself:
+
+> Does the sender's identity make sense, and is this request consistent with how this person or department normally communicates?
+
+### 8. The Message Creates an Emotional Reaction
+
+Be cautious when a message deliberately makes you feel:
+
+- Afraid.
+- Pressured.
+- Excited.
+- Curious.
+- Important.
+- Guilty.
+
+Strong emotions can make people act before verifying.
+
+### A Better Way to Evaluate a Suspicious Message
+
+Instead of looking for one "magic" phishing clue, consider three questions:
+
+1. Was I expecting this?
+
+2. What is this message trying to make me do?
+
+3. Can I verify the request independently?
+
+If the request involves credentials, money, sensitive information, or access to an account, verification should come before action.
+
+> Don't ask only, "Does this look real?" Ask, "What would happen if I trusted it and it wasn't real?"
+
+## Real-World Example — Business Email Compromise
+
+One of the techniques demonstrated in The Trap Room is not hypothetical.
+
+The FBI describes Business Email Compromise (BEC) as a form of online crime in which criminals make fraudulent requests that appear to come from a known or trusted source.
+
+One documented example involves an employee receiving what appeared to be a request from a company CEO to purchase gift cards and send the card numbers and PINs back to the supposed executive. The FBI notes that real victims have lost money through this type of scheme.
+
+### Why This Works
+
+The attacker does not necessarily need sophisticated malware to succeed.
+
+Instead, the attack can exploit:
+
+- Trust in senior employees.
+- Familiar communication patterns.
+- Urgency.
+- Secrecy.
+- The employee's desire to complete their work quickly.
+- The assumption that a familiar name means a familiar person.
+
+These are the same psychological techniques demonstrated in Scenario 2 — The Urgent Favour.
+
+### What Employees Can Learn From This
+
+Financial or unusual requests should not be trusted simply because they appear to come from a manager, executive, vendor, or colleague.
+
+The FBI recommends independently verifying payment and purchase requests, being cautious with urgent requests, examining sender addresses and URLs, and not relying on email alone to verify a request.
+
+### Key Takeaway
+
+The more unusual or financially sensitive the request, the stronger the verification should be.
+
+A familiar sender can be spoofed. A legitimate-looking request can be fraudulent. Verification should happen through a trusted channel that is independent of the suspicious message.
+
+Source: U.S. Federal Bureau of Investigation (FBI), Business Email Compromise.
+
+
+## What To Do If You Clicked
+
+Even careful users can make mistakes. Clicking a suspicious link does not automatically mean an account or device has been compromised.
+
+The most important thing is to stop, report, and respond quickly rather than hiding the mistake.
+
+### If You Clicked a Suspicious Link
+
+1. Stop interacting with the page.
+   
+   Do not enter additional information, download files, or continue following instructions.
+
+2. Do not enter your credentials.
+   
+   If the page asks for a username, password, authentication code, or other sensitive information, close it without providing the information.
+
+3. Report the message.
+   
+   Use your organization's established phishing-reporting process or contact the appropriate IT/security team.
+
+4. Tell the security team what happened.
+   
+   Be honest about what you clicked and what information, if any, you entered. This helps the security team determine the appropriate response.
+
+5. If you entered your password, act immediately.
+   
+   Contact the appropriate IT/security team and follow the organization's password-reset and account-security procedures.
+
+6. If you downloaded or opened a suspicious file, report it.
+   
+   Do not continue opening the file or attempt to investigate it yourself if you are not trained to do so.
+
+7. Follow your organization's incident-response procedures.
+   
+   Different organizations have different procedures, so employees should follow the official process provided by their security or IT team.
+
+### What Not To Do
+
+Do not:
+
+- Delete the message and pretend nothing happened.
+- Continue interacting with the suspicious website.
+- Enter additional information to "see what happens."
+- Forward the suspicious message to other employees without following the organization's reporting procedure.
+- Attempt to investigate or remove malware yourself unless you are authorized and trained to do so.
+
+### The Most Important Rule
+
+> Report quickly, even if you think you made a mistake.
+
+Early reporting can give security teams more time to investigate the message, protect other users, secure affected accounts, and reduce potential damage.
+
+### Remember
+
+Clicked does not mean compromised.
+
+What matters next is how quickly and appropriately you respond.
+
+## Final Challenge — What Would You Do?
+
+You have completed The Trap Room.
+
+Now test whether you can apply what you have learned.
+
+For each situation, choose the response you believe is safest before reading the answer.
+
+---
+
+### Question 1 — The Password Reset
+
+You receive an unexpected email saying your company account will be disabled in 30 minutes unless you verify your password.
+
+The message contains a link to a login page.
+
+What should you do?
+
+A. Click the link and reset your password immediately.
+
+B. Reply to the email and ask whether it is legitimate.
+
+C. Access the official account portal through a trusted route and check whether the notification is genuine.
+
+D. Forward the email to a colleague and ask them to click the link first.
+
+<details>
+<summary>Reveal Answer</summary>
+
+Correct answer: C
+
+The safest approach is to avoid the link provided in the unexpected message and independently access the legitimate service.
+
+The message uses urgency and fear of account loss to encourage immediate action.
+
+</details>
+
+---
+
+### Question 2 — The Executive Request
+
+Your manager sends you an urgent message asking you to purchase gift cards and send the card numbers and PINs within 15 minutes.
+
+The manager says they are currently unavailable for a call.
+
+What should you do?
+
+A. Purchase the gift cards because the request came from your manager.
+
+B. Purchase one card first to confirm the request is genuine.
+
+C. Independently verify the request using an established communication method or company procedure.
+
+D. Send the card numbers but keep the PINs until the manager confirms.
+
+<details>
+<summary>Reveal Answer</summary>
+
+Correct answer: C
+
+An unusual financial request should be independently verified before any money or sensitive information is provided.
+
+The request combines authority, urgency, and pressure.
+
+</details>
+
+---
+
+### Question 3 — The Shared Document
+
+You receive an unexpected message containing a link to a document. The message uses your company's branding and asks you to sign in.
+
+The login page looks identical to the service you normally use.
+
+What should you do?
+
+A. Enter your username first and inspect the page afterward.
+
+B. Enter your credentials because the branding looks legitimate.
+
+C. Close the page and access the service independently through a trusted route.
+
+D. Enter your password but not your authentication code.
+
+<details>
+<summary>Reveal Answer</summary>
+
+Correct answer: C
+
+A convincing design does not prove that a website is legitimate.
+
+The safest response is to access the service through a trusted route and verify whether the document actually exists.
+
+</details>
+
+---
+
+### Question 4 — The Suspicious Attachment
+
+A colleague sends you an unexpected email containing an attachment and asks you to open it immediately because "the information is time-sensitive."
+
+What should you do?
+
+A. Open it quickly before the deadline.
+
+B. Save it to your computer and scan it later.
+
+C. Verify the request through a trusted channel before opening the attachment.
+
+D. Forward it to another colleague to see whether they can open it.
+
+<details>
+<summary>Reveal Answer</summary>
+
+Correct answer: C
+
+An unexpected attachment combined with urgency should be verified before it is opened.
+
+The safest response is not to pass the risk to another employee.
+
+</details>
+
+---
+
+### Question 5 — The Correct Mindset
+
+Which statement best describes the goal of phishing awareness?
+
+A. Assume every unexpected email is malicious.
+
+B. Look for spelling mistakes and obvious fake websites.
+
+C. Never trust messages from your organization.
+
+D. Pause, evaluate the request, and independently verify high-risk actions.
+
+<details>
+<summary>Reveal Answer</summary>
+
+Correct answer: D
+
+Phishing awareness is not about becoming suspicious of everything.
+
+It is about developing the habit of thinking before acting, especially when a request involves credentials, money, sensitive information, downloads, or account access.
+
+</details>
+
+---
+
+## Your Score
+
+Give yourself 1 point for every correct answer.
+
+| Score | Result |
+|---|---|
+| 5/5 | Excellent — you consistently applied safe verification practices. |
+| 4/5 | Strong — review the scenario you missed and identify what influenced your decision. |
+| 3/5 | Good start — revisit the social engineering tactics and red flags. |
+| 0–2/5 | Don't worry — revisit the scenarios and try the challenge again. |
+
+### The Real Test
+
+The goal is not simply to remember the correct answers.
+
+The goal is to recognize the same manipulation when it appears in a completely different situation.
+
+> The strongest security habit is not knowing every type of phishing. It is knowing when to pause and verify.
